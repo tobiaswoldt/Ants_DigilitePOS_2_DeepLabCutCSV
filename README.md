@@ -13,4 +13,4 @@ dlc_env_path - this is the path to the python environment of deeplabcut.
 
 Before you start learning, make sure to change the config.yaml to include your frames!!
 
-Also make sure, you have 
+
